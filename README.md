@@ -2,9 +2,13 @@
 ## About
 - This is a mini project for SC1015 (Introduction to Data Science and Artificial Intelligence).
 - [Employee Satisfaction Dataset](https://www.kaggle.com/datasets/redpen12/employees-satisfaction-analysis) is obtained from Kaggle.
-- Please download the [csv](https://github.com/AmelynSiew/Employee-Satisfaction/blob/main/Employee.csv) file before running the code in the 
-[ipynb](https://github.com/AmelynSiew/Employee-Satisfaction/blob/main/SC1015%20Group%20Project_FINAL.ipynb) file.
-- You may need to install pydotplus before running the code. You may do so by typing "!pip install pydotplus" into a cell and running it.
+- Please download the [csv](https://github.com/AmelynSiew/Employee-Satisfaction/blob/main/Employee.csv) file before running the codes.
+- You may need to install pydotplus before running the codes. You may do so by typing "!pip install pydotplus" into a cell and running it.
+- Please view/run the files in the following order:
+  1. Data Preparation & Cleaning
+  2. Exploratory Data Analysis
+  3. Random Forest Regression
+  4. Gradient Boosting Regression
 
 ## Motivation
 - Staggering rates of employee dissatisfaction since the Covid-19 pandemic, largely caused by lack of engagement and unhappiness.
